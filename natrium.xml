@@ -5,16 +5,16 @@
             <Filename>RR-O-v6.0.0-20180611-natrium-Official.zip</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
-                description="Latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix-oreo/files/natrium/RR-O-v6.0.0-20180611-natrium-Official.zip/download</RomUrl>
+                title="Download ROM"
+                description="Download latest Resurrection Remix build">https://sourceforge.net/projects/resurrectionremix-oreo/files/natrium/RR-O-v6.0.0-20180611-natrium-Official.zip/download</RomUrl>
             <OpenGappsUrl
                 id="open_gapps"
-                title="OpenGApps"
-                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+                title="Download OpenGApps"
+                description="Download latest OpenGApps build">http://opengapps.org</OpenGappsUrl>
 	    <ChangelogUrl
                 id="changelog"
-                title="Changelog"
-                description="View changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/oreo/CHANGELOG.mkdn</ChangelogUrl>
+                title="Download changelog"
+                description="Download latest changelog">https://sourceforge.net/projects/resurrectionremix-oreo/files/natrium/RR-O-v6.0.0-20180611-natrium-Official-Changelog.txt</ChangelogUrl>
 	</natrium>
     </Stable>
 </SlimOTA>
