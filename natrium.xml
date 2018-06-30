@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <natrium>
-            <Filename>RR-O-v6.1.0-20180615-natrium-Official.zip</Filename>
+            <Filename>RR-O-v6.1.0-20180630-natrium-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Download ROM"
-                description="Download latest Resurrection Remix build">https://sourceforge.net/projects/resurrectionremix-oreo/files/natrium/RR-O-v6.1.0-20180615-natrium-Official.zip/download</RomUrl>
+                description="Download latest Resurrection Remix build">https://sourceforge.net/projects/resurrectionremix-oreo/files/natrium/RR-O-v6.1.0-20180630-natrium-Official.zip/download</RomUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="Download OpenGApps"
@@ -14,7 +14,7 @@
 	    <ChangelogUrl
                 id="changelog"
                 title="Download changelog"
-                description="Download latest changelog">https://sourceforge.net/projects/resurrectionremix-oreo/files/natrium/RR-O-v6.1.0-20180615-natrium-Official-Changelog.txt</ChangelogUrl>
+                description="Download latest changelog">https://sourceforge.net/projects/resurrectionremix-oreo/files/natrium/RR-O-v6.1.0-20180630-natrium-Official-Changelog.txt</ChangelogUrl>
 	</natrium>
     </Stable>
 </SlimOTA>
